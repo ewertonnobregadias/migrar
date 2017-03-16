@@ -1,0 +1,34 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	color: #363636;
+	overflow-x: hidden;
+	font-family: 'Raleway';
+	background-color: #F8F8FF;
+}
+
+::selection{ 
+	background: #00CD66; color: #fff;
+} 
+
+::-moz-selection{ 
+	background: #00CD66; color: #fff; 
+}
+
+.fa-desktop{
+	font-size: 2em;
+	color: #4F4F4F;
+	padding-bottom: 10px;
+}
+
+.fa-database{
+	font-size: 2em;
+	color: #4F4F4F;
+	padding-bottom: 10px;
+}
+
+.fa-cogs{
+	font-size: 2em;
+	color: #4F4F4F;
+	padding-bottom: 10px;
+}

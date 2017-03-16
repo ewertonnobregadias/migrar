@@ -1,0 +1,26 @@
+.nav{
+	float: left;
+	line-height: 90px; 
+}
+
+.nav ul {
+	padding:0px;
+	margin:0px;
+	list-style:none;
+}
+
+.nav ul li{ 
+	display: inline; 
+}
+
+.nav ul li a {
+	padding: 2px 20px;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 13pt;
+	color: #FFF;
+}
+
+.nav ul li a:hover {
+}
+
